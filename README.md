@@ -9,7 +9,7 @@ Guesty Assignment
 
 you can run with different city: `node . "Los Angeles``;
 
-you can uncomment line #28 at `index.js` to limit to only 2 neighborhoods.
+you can uncomment line #28 at `index.js` to limit to only `x` neighborhoods.
 
 `throttling` is hard coded, you can search `Promise.delay(1000)` and change there the ms.
 
