@@ -5,6 +5,8 @@ Guesty Assignment
 
 ## instructions
 
+you need to have installed node v7.10.0.
+
 `git clone` then `npm install` and `npm start`;
 
 you can run with different city: `node . "Los Angeles``;
