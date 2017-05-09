@@ -25,7 +25,7 @@ const { getListings, getListingsInfo, calculateScore, createHeatMapFile } = requ
       return;
     }
 
-    neighborhoods.length = 2;
+    // neighborhoods.length = 2;
 
     await Promise.map(neighborhoods, item => {
       return Promise.delay(1000).then(
