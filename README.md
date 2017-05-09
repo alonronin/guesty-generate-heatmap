@@ -3,6 +3,8 @@ Guesty Assignment
 
 > it will run against a City and will create a `heatmap.html` file in the end.
 
+[live demo](https://dist-lzfycfjsox.now.sh/)
+
 ## instructions
 
 you need to have installed node v7.10.0.
